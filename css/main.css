@@ -2496,6 +2496,7 @@ color: #fff;
 
 .slide2 {
 	height:1080px;
+	display:flex;
 }
 
 .txt {
@@ -2518,4 +2519,68 @@ color: #fff;
 	background: #0072B7;
 	height:40%;
 }
+
+.s2div2 {
+	position: relative;
+}
+
+.calendar1 {
+	background: url(../images/img/Calendar1.png) no-repeat center;
+	width:624px;
+	height:307px;
+	position: absolute;
+	top:0;
+	left:0;
+}
+
+.calendar2 {
+	background: url(../images/img/Calendar2.png) no-repeat center;
+	width:680px;
+	height:380px;
+	position: absolute;
+	left: 162px;
+	top: 244px;
+}
+
+.calendar3 {
+	background:#9E280E;
+	position: absolute;
+	width:624px;
+	height:307px;
+	left: -20px;
+	top: -20px;
+}
+
+.calendar4 {
+	background:#9E280E;
+	position: absolute;
+	width:680px;
+	height:380px;
+	left: 182px;
+	top: 264px;
+}
+
+.calendar5 {
+	background: url(../images/img/Polygon6.png) no-repeat center;
+	width: 46px;
+	height: 46px;
+	position: absolute;
+	left: -70px;
+	top: -25px;
+}
+
+.calendar6 {
+	background: url(../images/img/Polygon6.png) no-repeat center;
+	width: 46px;
+	height: 46px;
+	position: absolute;
+	left: 865px;
+	top: 600px;
+	transform: rotate(180deg);
+}
+
+.s2div3 {
+	position:relative;
+}
+
 /*# sourceMappingURL=main.css.map */
