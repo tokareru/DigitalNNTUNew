@@ -2796,4 +2796,11 @@ color: #fff;
 	border-radius: 55px;
 }
 
+section {
+	min-width: 1510px;
+}
+
+footer {
+	min-width: 1510px;
+}
 /*# sourceMappingURL=main.css.map */
